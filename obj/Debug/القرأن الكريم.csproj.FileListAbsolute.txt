@@ -1,0 +1,43 @@
+D:\Quran App\القرأن الكريم\bin\Debug\القرأن الكريم.exe
+D:\Quran App\القرأن الكريم\bin\Debug\Guna.UI2.dll
+D:\Quran App\القرأن الكريم\bin\Debug\القرأن الكريم.exe.config
+D:\Quran App\القرأن الكريم\bin\Debug\AxInterop.WMPLib.dll
+D:\Quran App\القرأن الكريم\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.Asio.dll
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.Core.dll
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.dll
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.Midi.dll
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.Wasapi.dll
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.WinForms.dll
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.WinMM.dll
+D:\Quran App\القرأن الكريم\bin\Debug\Newtonsoft.Json.dll
+D:\Quran App\القرأن الكريم\bin\Debug\System.Security.AccessControl.dll
+D:\Quran App\القرأن الكريم\bin\Debug\System.Security.Principal.Windows.dll
+D:\Quran App\القرأن الكريم\bin\Debug\Tabulate.NET.dll
+D:\Quran App\القرأن الكريم\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.xml
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.Asio.xml
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.Core.xml
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.Midi.xml
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.Wasapi.xml
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.WinForms.xml
+D:\Quran App\القرأن الكريم\bin\Debug\NAudio.WinMM.xml
+D:\Quran App\القرأن الكريم\bin\Debug\Newtonsoft.Json.pdb
+D:\Quran App\القرأن الكريم\bin\Debug\Newtonsoft.Json.xml
+D:\Quran App\القرأن الكريم\bin\Debug\System.Security.AccessControl.xml
+D:\Quran App\القرأن الكريم\bin\Debug\System.Security.Principal.Windows.xml
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.csproj.AssemblyReference.cache
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن_الكريم.Properties.Resources.resources
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.csproj.GenerateResource.cache
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.csproj.CoreCompileInputs.cache
+D:\Quran App\القرأن الكريم\obj\Debug\ar-EG\القرأن الكريم.resources.dll
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن ا.84C40DCC.Up2Date
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.exe
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.pdb
+D:\Quran App\القرأن الكريم\bin\Debug\القرأن الكريم.pdb
+D:\Quran App\القرأن الكريم\bin\Debug\ar-EG\القرأن الكريم.resources.dll
+D:\Quran App\القرأن الكريم\obj\Debug\Quran.Signinandupform.resources
+D:\Quran App\القرأن الكريم\obj\Debug\Quran.ListeningForm.resources
+D:\Quran App\القرأن الكريم\obj\Debug\Quran.Form3.resources
+D:\Quran App\القرأن الكريم\obj\Debug\Quran.ListeningForm.ar-EG.resources
+D:\Quran App\القرأن الكريم\obj\Debug\WindowsFormsApp8.Form4.resources
